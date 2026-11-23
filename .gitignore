@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+.venv/
+.venv-1/
+env/
+
+# Trained model (75 MB - recreate with bangalore_model.py)
+model.pkl
+*.pkl
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives
+*.rar
+*.zip
